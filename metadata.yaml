@@ -1,0 +1,30 @@
+_repo: Chateau-and-Country-Life-in-France_14029
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Waddington, Mary King
+    aliases:
+    - King, Mary Alsop
+    - Waddington, Mary Alsop King
+    birthdate: 1833
+    deathdate: 1923
+    gutenberg_agent_id: '3261'
+    url: http://www.gutenberg.org/2009/agents/3261
+    wikipedia: http://en.wikipedia.org/wiki/Mary_Alsop_King_Waddington
+description: ''
+gutenberg_issued: '2004-11-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14029'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'France -- Social life and customs'
+- !lcc 'DC'
+title: Chateau and Country Life in France
+url: http://www.gutenberg.org/ebooks/14029
